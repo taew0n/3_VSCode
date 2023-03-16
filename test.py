@@ -1,5 +1,5 @@
 print('hello OSSVM')
 
-print('THis is new code')
-
 print('for the week3 assignment')
+
+print('이제 좀 되자 ^^')
